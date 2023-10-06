@@ -1,12 +1,4 @@
-# Context
-
-This is intended to be a timed 3-hour exercise.  Considering the short timeframe and open-endedness
-of the problem, it is recommended to focus on creating a minimum viable solution meeting the basic
-requirements of the problem. Do not worry about covering all edge cases or finding an optimal
-solution. We will mainly assess basic functionality/correctness and code quality.
-Please provide proof that your code runs with a few test cases.
-
-# Task Overview
+# Product Requirements
 
 Your company is adding thousands of projects/week and growing steadily. Many of these projects end up
 being sold and need to be installed. Smaller installers often struggle scheduling their installation
